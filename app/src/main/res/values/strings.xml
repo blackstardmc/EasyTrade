@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EasyTrade</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="manual">Manual</string>
+    <string name="grid_bot">Grid Bot</string>
+    <string name="inversion">Inversion</string>
+    <string name="pcompra">Precio de compra</string>
+    <string name="pventa">Precio de venta</string>
+    <string name="psloss">% de Stop Loss</string>
+    <string name="ganancia">Ganancia</string>
+    <string name="perdida">Perdida</string>
+    <string name="porcentaje">Porcentaje</string>
+    <string name="porgrid">Porcentaje por grid</string>
+    <string name="grid">Grids</string>
+    <string name="ggrid">Ganancia por grid</string>
+    <string name="tot">Total</string>
+    <string name="pmax">Precio maximo</string>
+    <string name="pmin">Precio minimo</string>
+    <string name="cgrid">USDT por grid</string>
+    <string name="stoplossa">Stop Loss aconsejado</string>
+    <string name="clean">Limpiar</string>
+    <string name="show">Calcular</string>
+    <string name="Rango">Rango de grids</string>
+    <string name="nothing">-</string>
+</resources>
